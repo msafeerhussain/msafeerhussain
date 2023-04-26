@@ -2,12 +2,12 @@
 
 ### Hi there, I'm Muhammad Safeer Hussain 👋
 
-## I'm a Student & Developer!!
+## I'm a JS DeveLoper!!
 
 - 🔭 I’m a student of Software Engineering.<img src="https://img.icons8.com/color-glass/48/000000/laptop-coding.png" height='20'/>
 - ⚡ From Pakistan, living in Dera Ghazi Khan <img src="https://img.icons8.com/color/48/000000/street-view.png" height='20' />
-- 🌱 I’m currently Working on  Python| Django , HTML & CSS
-- 🌱 I’m currently learning JavaScript , React & Node.js
+- 🌱 I’m currently Working on  JavaScript & Python.
+- 🌱 In JavaScript, i'm actually works on  React & Node.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and listen music.
