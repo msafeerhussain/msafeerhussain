@@ -6,7 +6,7 @@
 
 - 🔭 I’m a studying Software Engineering from IUB.<img src="https://img.icons8.com/color-glass/48/000000/laptop-coding.png" height='20'/>
 - 🌱 I’m currently Working on  JavaScript Tech Stack like React JS & Python Console + Django.
-- 🌱 I'm now learn the React Native for building Mobile Apps for Andriod and IOS.
+- 🌱 Now i'm learning React Native for building Mobile Apps for Andriod and IOS.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
