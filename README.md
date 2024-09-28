@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=msafeerhussain&color=blueviolet&label=Profile+Views)
 
-#### - 💻‍ I'm a Software Engineering Student
+#### - 💻‍ I'm a Software Engineer
 
-#### - 👨‍💻 Currently working with JavaScript Tech stack React JS for web development
+#### - 👨‍💻 Currently working on Next JS as web and flutter as mobile app developer
 
-#### - 🎇 Learning: MERN STACK
+#### - 🎇 Learning: Advanced Technologies
 
 #### - 🎨 Hobbies: Programming & Music Listening
 
